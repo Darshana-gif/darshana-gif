@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there im darshana
 
-<!--
-**Darshana-gif/darshana-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on frontend development
+- 🌱 I’m currently learning HTML, CSS and js
+- 👯 I’m looking to collaborate on github
+- 🤔 I’m looking for help with javascript
+- 💬 Ask me about UI/UX
+- 📫 How to reach me: (Instagram)[https://www.instagram.com/hana__dars?igsh=b3N5ZHRsZzFwNWU0] | @bhandaridarshana@gmail.com
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: im confident and bold, glamour
+
